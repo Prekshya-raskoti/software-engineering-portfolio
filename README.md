@@ -1,27 +1,16 @@
-# Data Science Journey 🚀
+# Big Data Foundations 🚀
 
-Hi, I am Prekshya Raskoti — aspiring Data Scientist 
+A structured learning journey built while preparing for MSc Big Data 
+Technologies applications 
 
-## Currently Learning
-- Week 1 — Kaggle Python Course
-- Topics: Variables, operators, functions, loops
+## What's here
+| Topic      | Status      | Key concepts covered              |
+|------------|-------------|-----------------------------------|
+| Python     | In progress | basics, pandas, OOP               |
+| SQL        | In progress | joins, aggregations, window funcs |
+| Pandas     | In progress | cleaning, groupby, merging        |
+| Excel      | ✅ Done     | pivot tables, VLOOKUP, charts     |
 
-## What's in this repo
-- `day1-basics.ipynb` — my first Python code
-
-## Goals
-- Complete Kaggle Python course — Week 1 of 7
-- Complete Kaggle Pandas course
-- Complete Kaggle Data Visualization course
-- Complete Kaggle SQL course
-- Build Titanic EDA project
-- Build World Happiness Analysis project
-
-## Tools
-Python | Jupyter Notebook | Pandas | 
-Matplotlib | SQL | GitHub
-
-## Connect
-- Kaggle: kaggle.com/prekshya23
-- Kaggle: kaggle.com/prekshya23
-  
+## Goal
+Preparing for MSc Big Data Technologies — building hands-on skills 
+in data engineering, analysis, and large-scale data processing.
